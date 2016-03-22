@@ -12,3 +12,4 @@ class Calculator
         return $value1 + $value2;
     }
 }
+

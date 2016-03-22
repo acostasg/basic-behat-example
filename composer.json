@@ -1,11 +1,5 @@
 {
-  "Henri \"Genka\" Kõrvits": 23,
   "require-dev": {
     "behat/behat": "^3.0"
-  },
-  "autoload": {
-    "psr-4": {
-      "Calculator\\": "classes/Calculator"
-    }
   }
 }
